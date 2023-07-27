@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Gallery</string>
+    <string name="cat">A beautiful cat</string>
+    <string name="pier">A cool pier</string>
+    <string name="wood">A nice piece of wood</string>
+    <string name="tower">An steel tower</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
